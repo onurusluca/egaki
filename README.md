@@ -1,7 +1,7 @@
 # egaki
 Egaki -  Simplistic drawing app with many functionalities.
 
-<a target=”_blank” href="https://egaki.netlify.app/" >LIVE DEMO</a>
+<a　 href="https://egaki.netlify.app/" target=”_blank” href="https://egaki.netlify.app/" >LIVE DEMO</a>
 
 
 <a　href="https://egaki.netlify.app/"><img src="https://www.linkpicture.com/q/egaki.png" type="image"></a>
